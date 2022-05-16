@@ -1,0 +1,9 @@
+testpackages\Test_DELETE.class
+testpackages\Tests_POST.class
+testpackages\Tests_GET.class
+testpackages\Tests_PUT.class
+testpackages\DataForTests.class
+testpackages\Test01_GET.class
+testpackages\Examples.class
+testpackages\DataDrivenExamples.class
+testpackages\Tests_PATCH.class
